@@ -1,0 +1,20 @@
+<link rel="stylesheet" type="text/css" href="format.css" />
+.header {
+	font-size: 35px;
+}
+body {
+	background-color: cyan
+}
+.list {
+	font-size: 20px;
+}
+#aboutme {
+	text-align: center;
+	color: orange;
+	font-size: 35px;
+}
+#aboutmeinfo {
+	text-align: center;
+	color: black;
+	font-size: 20px;
+}
